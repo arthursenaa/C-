@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\Revisao\bin\Debug\netcoreapp2.1\Revisao.deps.json
+D:\senai\codigos\C#\Revisao\bin\Debug\netcoreapp2.1\Revisao.runtimeconfig.json
+D:\senai\codigos\C#\Revisao\bin\Debug\netcoreapp2.1\Revisao.runtimeconfig.dev.json
+D:\senai\codigos\C#\Revisao\bin\Debug\netcoreapp2.1\Revisao.dll
+D:\senai\codigos\C#\Revisao\bin\Debug\netcoreapp2.1\Revisao.pdb
+D:\senai\codigos\C#\Revisao\obj\Debug\netcoreapp2.1\Revisao.csprojAssemblyReference.cache
+D:\senai\codigos\C#\Revisao\obj\Debug\netcoreapp2.1\Revisao.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\Revisao\obj\Debug\netcoreapp2.1\Revisao.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\Revisao\obj\Debug\netcoreapp2.1\Revisao.AssemblyInfo.cs
+D:\senai\codigos\C#\Revisao\obj\Debug\netcoreapp2.1\Revisao.dll
+D:\senai\codigos\C#\Revisao\obj\Debug\netcoreapp2.1\Revisao.pdb

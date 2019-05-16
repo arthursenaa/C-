@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\3Triangulos\bin\Debug\netcoreapp2.1\3Triangulos.deps.json
+D:\senai\codigos\C#\3Triangulos\bin\Debug\netcoreapp2.1\3Triangulos.runtimeconfig.json
+D:\senai\codigos\C#\3Triangulos\bin\Debug\netcoreapp2.1\3Triangulos.runtimeconfig.dev.json
+D:\senai\codigos\C#\3Triangulos\bin\Debug\netcoreapp2.1\3Triangulos.dll
+D:\senai\codigos\C#\3Triangulos\bin\Debug\netcoreapp2.1\3Triangulos.pdb
+D:\senai\codigos\C#\3Triangulos\obj\Debug\netcoreapp2.1\3Triangulos.csprojAssemblyReference.cache
+D:\senai\codigos\C#\3Triangulos\obj\Debug\netcoreapp2.1\3Triangulos.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\3Triangulos\obj\Debug\netcoreapp2.1\3Triangulos.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\3Triangulos\obj\Debug\netcoreapp2.1\3Triangulos.AssemblyInfo.cs
+D:\senai\codigos\C#\3Triangulos\obj\Debug\netcoreapp2.1\3Triangulos.dll
+D:\senai\codigos\C#\3Triangulos\obj\Debug\netcoreapp2.1\3Triangulos.pdb

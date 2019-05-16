@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\TesteMatriz\bin\Debug\netcoreapp2.1\TesteMatriz.deps.json
+D:\senai\codigos\C#\TesteMatriz\bin\Debug\netcoreapp2.1\TesteMatriz.runtimeconfig.json
+D:\senai\codigos\C#\TesteMatriz\bin\Debug\netcoreapp2.1\TesteMatriz.runtimeconfig.dev.json
+D:\senai\codigos\C#\TesteMatriz\bin\Debug\netcoreapp2.1\TesteMatriz.dll
+D:\senai\codigos\C#\TesteMatriz\bin\Debug\netcoreapp2.1\TesteMatriz.pdb
+D:\senai\codigos\C#\TesteMatriz\obj\Debug\netcoreapp2.1\TesteMatriz.csprojAssemblyReference.cache
+D:\senai\codigos\C#\TesteMatriz\obj\Debug\netcoreapp2.1\TesteMatriz.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\TesteMatriz\obj\Debug\netcoreapp2.1\TesteMatriz.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\TesteMatriz\obj\Debug\netcoreapp2.1\TesteMatriz.AssemblyInfo.cs
+D:\senai\codigos\C#\TesteMatriz\obj\Debug\netcoreapp2.1\TesteMatriz.dll
+D:\senai\codigos\C#\TesteMatriz\obj\Debug\netcoreapp2.1\TesteMatriz.pdb

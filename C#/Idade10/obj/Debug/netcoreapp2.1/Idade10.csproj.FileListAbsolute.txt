@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\Idade10\obj\Debug\netcoreapp2.1\Idade10.csprojAssemblyReference.cache
+D:\senai\codigos\C#\Idade10\obj\Debug\netcoreapp2.1\Idade10.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\Idade10\obj\Debug\netcoreapp2.1\Idade10.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\Idade10\obj\Debug\netcoreapp2.1\Idade10.AssemblyInfo.cs
+D:\senai\codigos\C#\Idade10\bin\Debug\netcoreapp2.1\Idade10.deps.json
+D:\senai\codigos\C#\Idade10\bin\Debug\netcoreapp2.1\Idade10.runtimeconfig.json
+D:\senai\codigos\C#\Idade10\bin\Debug\netcoreapp2.1\Idade10.runtimeconfig.dev.json
+D:\senai\codigos\C#\Idade10\bin\Debug\netcoreapp2.1\Idade10.dll
+D:\senai\codigos\C#\Idade10\bin\Debug\netcoreapp2.1\Idade10.pdb
+D:\senai\codigos\C#\Idade10\obj\Debug\netcoreapp2.1\Idade10.dll
+D:\senai\codigos\C#\Idade10\obj\Debug\netcoreapp2.1\Idade10.pdb

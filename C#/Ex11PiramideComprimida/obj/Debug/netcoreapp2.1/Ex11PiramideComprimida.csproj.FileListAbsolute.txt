@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\Ex11PiramideComprimida\obj\Debug\netcoreapp2.1\Ex11PiramideComprimida.csprojAssemblyReference.cache
+D:\senai\codigos\C#\Ex11PiramideComprimida\obj\Debug\netcoreapp2.1\Ex11PiramideComprimida.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\Ex11PiramideComprimida\obj\Debug\netcoreapp2.1\Ex11PiramideComprimida.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\Ex11PiramideComprimida\obj\Debug\netcoreapp2.1\Ex11PiramideComprimida.AssemblyInfo.cs
+D:\senai\codigos\C#\Ex11PiramideComprimida\bin\Debug\netcoreapp2.1\Ex11PiramideComprimida.deps.json
+D:\senai\codigos\C#\Ex11PiramideComprimida\bin\Debug\netcoreapp2.1\Ex11PiramideComprimida.runtimeconfig.json
+D:\senai\codigos\C#\Ex11PiramideComprimida\bin\Debug\netcoreapp2.1\Ex11PiramideComprimida.runtimeconfig.dev.json
+D:\senai\codigos\C#\Ex11PiramideComprimida\bin\Debug\netcoreapp2.1\Ex11PiramideComprimida.dll
+D:\senai\codigos\C#\Ex11PiramideComprimida\bin\Debug\netcoreapp2.1\Ex11PiramideComprimida.pdb
+D:\senai\codigos\C#\Ex11PiramideComprimida\obj\Debug\netcoreapp2.1\Ex11PiramideComprimida.dll
+D:\senai\codigos\C#\Ex11PiramideComprimida\obj\Debug\netcoreapp2.1\Ex11PiramideComprimida.pdb

@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\DadosAlunoCompleto\bin\Debug\netcoreapp2.1\DadosAlunoCompleto.deps.json
+D:\senai\codigos\C#\DadosAlunoCompleto\bin\Debug\netcoreapp2.1\DadosAlunoCompleto.runtimeconfig.json
+D:\senai\codigos\C#\DadosAlunoCompleto\bin\Debug\netcoreapp2.1\DadosAlunoCompleto.runtimeconfig.dev.json
+D:\senai\codigos\C#\DadosAlunoCompleto\bin\Debug\netcoreapp2.1\DadosAlunoCompleto.dll
+D:\senai\codigos\C#\DadosAlunoCompleto\bin\Debug\netcoreapp2.1\DadosAlunoCompleto.pdb
+D:\senai\codigos\C#\DadosAlunoCompleto\obj\Debug\netcoreapp2.1\DadosAlunoCompleto.csprojAssemblyReference.cache
+D:\senai\codigos\C#\DadosAlunoCompleto\obj\Debug\netcoreapp2.1\DadosAlunoCompleto.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\DadosAlunoCompleto\obj\Debug\netcoreapp2.1\DadosAlunoCompleto.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\DadosAlunoCompleto\obj\Debug\netcoreapp2.1\DadosAlunoCompleto.AssemblyInfo.cs
+D:\senai\codigos\C#\DadosAlunoCompleto\obj\Debug\netcoreapp2.1\DadosAlunoCompleto.dll
+D:\senai\codigos\C#\DadosAlunoCompleto\obj\Debug\netcoreapp2.1\DadosAlunoCompleto.pdb

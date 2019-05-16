@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\TempAnual\bin\Debug\netcoreapp2.1\TempAnual.deps.json
+D:\senai\codigos\C#\TempAnual\bin\Debug\netcoreapp2.1\TempAnual.runtimeconfig.json
+D:\senai\codigos\C#\TempAnual\bin\Debug\netcoreapp2.1\TempAnual.runtimeconfig.dev.json
+D:\senai\codigos\C#\TempAnual\bin\Debug\netcoreapp2.1\TempAnual.dll
+D:\senai\codigos\C#\TempAnual\bin\Debug\netcoreapp2.1\TempAnual.pdb
+D:\senai\codigos\C#\TempAnual\obj\Debug\netcoreapp2.1\TempAnual.csprojAssemblyReference.cache
+D:\senai\codigos\C#\TempAnual\obj\Debug\netcoreapp2.1\TempAnual.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\TempAnual\obj\Debug\netcoreapp2.1\TempAnual.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\TempAnual\obj\Debug\netcoreapp2.1\TempAnual.AssemblyInfo.cs
+D:\senai\codigos\C#\TempAnual\obj\Debug\netcoreapp2.1\TempAnual.dll
+D:\senai\codigos\C#\TempAnual\obj\Debug\netcoreapp2.1\TempAnual.pdb

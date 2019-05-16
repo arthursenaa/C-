@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\DadosDoAlunoAprovado\bin\Debug\netcoreapp2.1\DadosDoAlunoAprovado.deps.json
+D:\senai\codigos\C#\DadosDoAlunoAprovado\bin\Debug\netcoreapp2.1\DadosDoAlunoAprovado.runtimeconfig.json
+D:\senai\codigos\C#\DadosDoAlunoAprovado\bin\Debug\netcoreapp2.1\DadosDoAlunoAprovado.runtimeconfig.dev.json
+D:\senai\codigos\C#\DadosDoAlunoAprovado\bin\Debug\netcoreapp2.1\DadosDoAlunoAprovado.dll
+D:\senai\codigos\C#\DadosDoAlunoAprovado\bin\Debug\netcoreapp2.1\DadosDoAlunoAprovado.pdb
+D:\senai\codigos\C#\DadosDoAlunoAprovado\obj\Debug\netcoreapp2.1\DadosDoAlunoAprovado.csprojAssemblyReference.cache
+D:\senai\codigos\C#\DadosDoAlunoAprovado\obj\Debug\netcoreapp2.1\DadosDoAlunoAprovado.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\DadosDoAlunoAprovado\obj\Debug\netcoreapp2.1\DadosDoAlunoAprovado.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\DadosDoAlunoAprovado\obj\Debug\netcoreapp2.1\DadosDoAlunoAprovado.AssemblyInfo.cs
+D:\senai\codigos\C#\DadosDoAlunoAprovado\obj\Debug\netcoreapp2.1\DadosDoAlunoAprovado.dll
+D:\senai\codigos\C#\DadosDoAlunoAprovado\obj\Debug\netcoreapp2.1\DadosDoAlunoAprovado.pdb

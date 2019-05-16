@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\Ex-10\bin\Debug\netcoreapp2.1\Ex-10.deps.json
+D:\senai\codigos\C#\Ex-10\bin\Debug\netcoreapp2.1\Ex-10.runtimeconfig.json
+D:\senai\codigos\C#\Ex-10\bin\Debug\netcoreapp2.1\Ex-10.runtimeconfig.dev.json
+D:\senai\codigos\C#\Ex-10\bin\Debug\netcoreapp2.1\Ex-10.dll
+D:\senai\codigos\C#\Ex-10\bin\Debug\netcoreapp2.1\Ex-10.pdb
+D:\senai\codigos\C#\Ex-10\obj\Debug\netcoreapp2.1\Ex-10.csprojAssemblyReference.cache
+D:\senai\codigos\C#\Ex-10\obj\Debug\netcoreapp2.1\Ex-10.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\Ex-10\obj\Debug\netcoreapp2.1\Ex-10.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\Ex-10\obj\Debug\netcoreapp2.1\Ex-10.AssemblyInfo.cs
+D:\senai\codigos\C#\Ex-10\obj\Debug\netcoreapp2.1\Ex-10.dll
+D:\senai\codigos\C#\Ex-10\obj\Debug\netcoreapp2.1\Ex-10.pdb

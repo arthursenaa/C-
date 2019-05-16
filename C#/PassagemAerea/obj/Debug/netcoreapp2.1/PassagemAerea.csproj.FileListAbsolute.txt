@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\PassagemAerea\bin\Debug\netcoreapp2.1\PassagemAerea.deps.json
+D:\senai\codigos\C#\PassagemAerea\bin\Debug\netcoreapp2.1\PassagemAerea.runtimeconfig.json
+D:\senai\codigos\C#\PassagemAerea\bin\Debug\netcoreapp2.1\PassagemAerea.runtimeconfig.dev.json
+D:\senai\codigos\C#\PassagemAerea\bin\Debug\netcoreapp2.1\PassagemAerea.dll
+D:\senai\codigos\C#\PassagemAerea\bin\Debug\netcoreapp2.1\PassagemAerea.pdb
+D:\senai\codigos\C#\PassagemAerea\obj\Debug\netcoreapp2.1\PassagemAerea.csprojAssemblyReference.cache
+D:\senai\codigos\C#\PassagemAerea\obj\Debug\netcoreapp2.1\PassagemAerea.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\PassagemAerea\obj\Debug\netcoreapp2.1\PassagemAerea.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\PassagemAerea\obj\Debug\netcoreapp2.1\PassagemAerea.AssemblyInfo.cs
+D:\senai\codigos\C#\PassagemAerea\obj\Debug\netcoreapp2.1\PassagemAerea.dll
+D:\senai\codigos\C#\PassagemAerea\obj\Debug\netcoreapp2.1\PassagemAerea.pdb

@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\Primeiro Projeto\bin\Debug\netcoreapp2.1\Primeiro Projeto.deps.json
+D:\senai\codigos\C#\Primeiro Projeto\bin\Debug\netcoreapp2.1\Primeiro Projeto.runtimeconfig.json
+D:\senai\codigos\C#\Primeiro Projeto\bin\Debug\netcoreapp2.1\Primeiro Projeto.runtimeconfig.dev.json
+D:\senai\codigos\C#\Primeiro Projeto\bin\Debug\netcoreapp2.1\Primeiro Projeto.dll
+D:\senai\codigos\C#\Primeiro Projeto\bin\Debug\netcoreapp2.1\Primeiro Projeto.pdb
+D:\senai\codigos\C#\Primeiro Projeto\obj\Debug\netcoreapp2.1\Primeiro Projeto.csprojAssemblyReference.cache
+D:\senai\codigos\C#\Primeiro Projeto\obj\Debug\netcoreapp2.1\Primeiro Projeto.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\Primeiro Projeto\obj\Debug\netcoreapp2.1\Primeiro Projeto.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\Primeiro Projeto\obj\Debug\netcoreapp2.1\Primeiro Projeto.AssemblyInfo.cs
+D:\senai\codigos\C#\Primeiro Projeto\obj\Debug\netcoreapp2.1\Primeiro Projeto.dll
+D:\senai\codigos\C#\Primeiro Projeto\obj\Debug\netcoreapp2.1\Primeiro Projeto.pdb

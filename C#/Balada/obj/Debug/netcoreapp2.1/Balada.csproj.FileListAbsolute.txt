@@ -1,0 +1,11 @@
+C:\Users\44761640804\Desktop\Arthur\codigos\C#\Balada\obj\Debug\netcoreapp2.1\Balada.csprojAssemblyReference.cache
+C:\Users\44761640804\Desktop\Arthur\codigos\C#\Balada\obj\Debug\netcoreapp2.1\Balada.csproj.CoreCompileInputs.cache
+C:\Users\44761640804\Desktop\Arthur\codigos\C#\Balada\obj\Debug\netcoreapp2.1\Balada.AssemblyInfoInputs.cache
+C:\Users\44761640804\Desktop\Arthur\codigos\C#\Balada\obj\Debug\netcoreapp2.1\Balada.AssemblyInfo.cs
+C:\Users\44761640804\Desktop\Arthur\codigos\C#\Balada\bin\Debug\netcoreapp2.1\Balada.deps.json
+C:\Users\44761640804\Desktop\Arthur\codigos\C#\Balada\bin\Debug\netcoreapp2.1\Balada.runtimeconfig.json
+C:\Users\44761640804\Desktop\Arthur\codigos\C#\Balada\bin\Debug\netcoreapp2.1\Balada.runtimeconfig.dev.json
+C:\Users\44761640804\Desktop\Arthur\codigos\C#\Balada\bin\Debug\netcoreapp2.1\Balada.dll
+C:\Users\44761640804\Desktop\Arthur\codigos\C#\Balada\bin\Debug\netcoreapp2.1\Balada.pdb
+C:\Users\44761640804\Desktop\Arthur\codigos\C#\Balada\obj\Debug\netcoreapp2.1\Balada.dll
+C:\Users\44761640804\Desktop\Arthur\codigos\C#\Balada\obj\Debug\netcoreapp2.1\Balada.pdb

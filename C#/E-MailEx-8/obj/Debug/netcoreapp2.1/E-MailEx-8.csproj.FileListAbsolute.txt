@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\E-MailEx-8\bin\Debug\netcoreapp2.1\E-MailEx-8.deps.json
+D:\senai\codigos\C#\E-MailEx-8\bin\Debug\netcoreapp2.1\E-MailEx-8.runtimeconfig.json
+D:\senai\codigos\C#\E-MailEx-8\bin\Debug\netcoreapp2.1\E-MailEx-8.runtimeconfig.dev.json
+D:\senai\codigos\C#\E-MailEx-8\bin\Debug\netcoreapp2.1\E-MailEx-8.dll
+D:\senai\codigos\C#\E-MailEx-8\bin\Debug\netcoreapp2.1\E-MailEx-8.pdb
+D:\senai\codigos\C#\E-MailEx-8\obj\Debug\netcoreapp2.1\E-MailEx-8.csprojAssemblyReference.cache
+D:\senai\codigos\C#\E-MailEx-8\obj\Debug\netcoreapp2.1\E-MailEx-8.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\E-MailEx-8\obj\Debug\netcoreapp2.1\E-MailEx-8.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\E-MailEx-8\obj\Debug\netcoreapp2.1\E-MailEx-8.AssemblyInfo.cs
+D:\senai\codigos\C#\E-MailEx-8\obj\Debug\netcoreapp2.1\E-MailEx-8.dll
+D:\senai\codigos\C#\E-MailEx-8\obj\Debug\netcoreapp2.1\E-MailEx-8.pdb

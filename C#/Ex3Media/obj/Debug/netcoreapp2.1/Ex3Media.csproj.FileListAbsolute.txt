@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\Ex3Media\obj\Debug\netcoreapp2.1\Ex3Media.csprojAssemblyReference.cache
+D:\senai\codigos\C#\Ex3Media\obj\Debug\netcoreapp2.1\Ex3Media.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\Ex3Media\obj\Debug\netcoreapp2.1\Ex3Media.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\Ex3Media\obj\Debug\netcoreapp2.1\Ex3Media.AssemblyInfo.cs
+D:\senai\codigos\C#\Ex3Media\bin\Debug\netcoreapp2.1\Ex3Media.deps.json
+D:\senai\codigos\C#\Ex3Media\bin\Debug\netcoreapp2.1\Ex3Media.runtimeconfig.json
+D:\senai\codigos\C#\Ex3Media\bin\Debug\netcoreapp2.1\Ex3Media.runtimeconfig.dev.json
+D:\senai\codigos\C#\Ex3Media\bin\Debug\netcoreapp2.1\Ex3Media.dll
+D:\senai\codigos\C#\Ex3Media\bin\Debug\netcoreapp2.1\Ex3Media.pdb
+D:\senai\codigos\C#\Ex3Media\obj\Debug\netcoreapp2.1\Ex3Media.dll
+D:\senai\codigos\C#\Ex3Media\obj\Debug\netcoreapp2.1\Ex3Media.pdb

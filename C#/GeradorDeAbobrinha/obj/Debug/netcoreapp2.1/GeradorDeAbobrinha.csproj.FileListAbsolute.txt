@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\GeradorDeAbobrinha\bin\Debug\netcoreapp2.1\GeradorDeAbobrinha.deps.json
+D:\senai\codigos\C#\GeradorDeAbobrinha\bin\Debug\netcoreapp2.1\GeradorDeAbobrinha.runtimeconfig.json
+D:\senai\codigos\C#\GeradorDeAbobrinha\bin\Debug\netcoreapp2.1\GeradorDeAbobrinha.runtimeconfig.dev.json
+D:\senai\codigos\C#\GeradorDeAbobrinha\bin\Debug\netcoreapp2.1\GeradorDeAbobrinha.dll
+D:\senai\codigos\C#\GeradorDeAbobrinha\bin\Debug\netcoreapp2.1\GeradorDeAbobrinha.pdb
+D:\senai\codigos\C#\GeradorDeAbobrinha\obj\Debug\netcoreapp2.1\GeradorDeAbobrinha.csprojAssemblyReference.cache
+D:\senai\codigos\C#\GeradorDeAbobrinha\obj\Debug\netcoreapp2.1\GeradorDeAbobrinha.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\GeradorDeAbobrinha\obj\Debug\netcoreapp2.1\GeradorDeAbobrinha.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\GeradorDeAbobrinha\obj\Debug\netcoreapp2.1\GeradorDeAbobrinha.AssemblyInfo.cs
+D:\senai\codigos\C#\GeradorDeAbobrinha\obj\Debug\netcoreapp2.1\GeradorDeAbobrinha.dll
+D:\senai\codigos\C#\GeradorDeAbobrinha\obj\Debug\netcoreapp2.1\GeradorDeAbobrinha.pdb

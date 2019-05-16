@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\PrevisaoTemp\obj\Debug\netcoreapp2.1\PrevisaoTemp.csprojAssemblyReference.cache
+D:\senai\codigos\C#\PrevisaoTemp\obj\Debug\netcoreapp2.1\PrevisaoTemp.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\PrevisaoTemp\obj\Debug\netcoreapp2.1\PrevisaoTemp.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\PrevisaoTemp\obj\Debug\netcoreapp2.1\PrevisaoTemp.AssemblyInfo.cs
+D:\senai\codigos\C#\PrevisaoTemp\bin\Debug\netcoreapp2.1\PrevisaoTemp.deps.json
+D:\senai\codigos\C#\PrevisaoTemp\bin\Debug\netcoreapp2.1\PrevisaoTemp.runtimeconfig.json
+D:\senai\codigos\C#\PrevisaoTemp\bin\Debug\netcoreapp2.1\PrevisaoTemp.runtimeconfig.dev.json
+D:\senai\codigos\C#\PrevisaoTemp\bin\Debug\netcoreapp2.1\PrevisaoTemp.dll
+D:\senai\codigos\C#\PrevisaoTemp\bin\Debug\netcoreapp2.1\PrevisaoTemp.pdb
+D:\senai\codigos\C#\PrevisaoTemp\obj\Debug\netcoreapp2.1\PrevisaoTemp.dll
+D:\senai\codigos\C#\PrevisaoTemp\obj\Debug\netcoreapp2.1\PrevisaoTemp.pdb

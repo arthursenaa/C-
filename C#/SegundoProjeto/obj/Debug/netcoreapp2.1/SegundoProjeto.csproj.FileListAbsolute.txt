@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\SegundoProjeto\obj\Debug\netcoreapp2.1\SegundoProjeto.csprojAssemblyReference.cache
+D:\senai\codigos\C#\SegundoProjeto\obj\Debug\netcoreapp2.1\SegundoProjeto.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\SegundoProjeto\obj\Debug\netcoreapp2.1\SegundoProjeto.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\SegundoProjeto\obj\Debug\netcoreapp2.1\SegundoProjeto.AssemblyInfo.cs
+D:\senai\codigos\C#\SegundoProjeto\bin\Debug\netcoreapp2.1\SegundoProjeto.deps.json
+D:\senai\codigos\C#\SegundoProjeto\bin\Debug\netcoreapp2.1\SegundoProjeto.runtimeconfig.json
+D:\senai\codigos\C#\SegundoProjeto\bin\Debug\netcoreapp2.1\SegundoProjeto.runtimeconfig.dev.json
+D:\senai\codigos\C#\SegundoProjeto\bin\Debug\netcoreapp2.1\SegundoProjeto.dll
+D:\senai\codigos\C#\SegundoProjeto\bin\Debug\netcoreapp2.1\SegundoProjeto.pdb
+D:\senai\codigos\C#\SegundoProjeto\obj\Debug\netcoreapp2.1\SegundoProjeto.dll
+D:\senai\codigos\C#\SegundoProjeto\obj\Debug\netcoreapp2.1\SegundoProjeto.pdb

@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\TsukaAirLines\bin\Debug\netcoreapp2.1\TsukaAirLines.deps.json
+D:\senai\codigos\C#\TsukaAirLines\bin\Debug\netcoreapp2.1\TsukaAirLines.runtimeconfig.json
+D:\senai\codigos\C#\TsukaAirLines\bin\Debug\netcoreapp2.1\TsukaAirLines.runtimeconfig.dev.json
+D:\senai\codigos\C#\TsukaAirLines\bin\Debug\netcoreapp2.1\TsukaAirLines.dll
+D:\senai\codigos\C#\TsukaAirLines\bin\Debug\netcoreapp2.1\TsukaAirLines.pdb
+D:\senai\codigos\C#\TsukaAirLines\obj\Debug\netcoreapp2.1\TsukaAirLines.csprojAssemblyReference.cache
+D:\senai\codigos\C#\TsukaAirLines\obj\Debug\netcoreapp2.1\TsukaAirLines.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\TsukaAirLines\obj\Debug\netcoreapp2.1\TsukaAirLines.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\TsukaAirLines\obj\Debug\netcoreapp2.1\TsukaAirLines.AssemblyInfo.cs
+D:\senai\codigos\C#\TsukaAirLines\obj\Debug\netcoreapp2.1\TsukaAirLines.dll
+D:\senai\codigos\C#\TsukaAirLines\obj\Debug\netcoreapp2.1\TsukaAirLines.pdb

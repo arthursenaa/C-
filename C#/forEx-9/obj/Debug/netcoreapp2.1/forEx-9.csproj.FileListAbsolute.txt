@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\forEx-9\bin\Debug\netcoreapp2.1\forEx-9.deps.json
+D:\senai\codigos\C#\forEx-9\bin\Debug\netcoreapp2.1\forEx-9.runtimeconfig.json
+D:\senai\codigos\C#\forEx-9\bin\Debug\netcoreapp2.1\forEx-9.runtimeconfig.dev.json
+D:\senai\codigos\C#\forEx-9\bin\Debug\netcoreapp2.1\forEx-9.dll
+D:\senai\codigos\C#\forEx-9\bin\Debug\netcoreapp2.1\forEx-9.pdb
+D:\senai\codigos\C#\forEx-9\obj\Debug\netcoreapp2.1\forEx-9.csprojAssemblyReference.cache
+D:\senai\codigos\C#\forEx-9\obj\Debug\netcoreapp2.1\forEx-9.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\forEx-9\obj\Debug\netcoreapp2.1\forEx-9.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\forEx-9\obj\Debug\netcoreapp2.1\forEx-9.AssemblyInfo.cs
+D:\senai\codigos\C#\forEx-9\obj\Debug\netcoreapp2.1\forEx-9.dll
+D:\senai\codigos\C#\forEx-9\obj\Debug\netcoreapp2.1\forEx-9.pdb

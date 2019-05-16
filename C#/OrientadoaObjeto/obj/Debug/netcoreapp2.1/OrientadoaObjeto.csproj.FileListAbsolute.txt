@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\OrientadoaObjeto\bin\Debug\netcoreapp2.1\OrientadoaObjeto.deps.json
+D:\senai\codigos\C#\OrientadoaObjeto\bin\Debug\netcoreapp2.1\OrientadoaObjeto.runtimeconfig.json
+D:\senai\codigos\C#\OrientadoaObjeto\bin\Debug\netcoreapp2.1\OrientadoaObjeto.runtimeconfig.dev.json
+D:\senai\codigos\C#\OrientadoaObjeto\bin\Debug\netcoreapp2.1\OrientadoaObjeto.dll
+D:\senai\codigos\C#\OrientadoaObjeto\bin\Debug\netcoreapp2.1\OrientadoaObjeto.pdb
+D:\senai\codigos\C#\OrientadoaObjeto\obj\Debug\netcoreapp2.1\OrientadoaObjeto.csprojAssemblyReference.cache
+D:\senai\codigos\C#\OrientadoaObjeto\obj\Debug\netcoreapp2.1\OrientadoaObjeto.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\OrientadoaObjeto\obj\Debug\netcoreapp2.1\OrientadoaObjeto.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\OrientadoaObjeto\obj\Debug\netcoreapp2.1\OrientadoaObjeto.AssemblyInfo.cs
+D:\senai\codigos\C#\OrientadoaObjeto\obj\Debug\netcoreapp2.1\OrientadoaObjeto.dll
+D:\senai\codigos\C#\OrientadoaObjeto\obj\Debug\netcoreapp2.1\OrientadoaObjeto.pdb

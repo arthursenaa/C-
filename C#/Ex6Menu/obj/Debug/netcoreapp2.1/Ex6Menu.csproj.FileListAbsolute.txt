@@ -1,0 +1,11 @@
+D:\senai\codigos\C#\Ex6Menu\bin\Debug\netcoreapp2.1\Ex6Menu.deps.json
+D:\senai\codigos\C#\Ex6Menu\bin\Debug\netcoreapp2.1\Ex6Menu.runtimeconfig.json
+D:\senai\codigos\C#\Ex6Menu\bin\Debug\netcoreapp2.1\Ex6Menu.runtimeconfig.dev.json
+D:\senai\codigos\C#\Ex6Menu\bin\Debug\netcoreapp2.1\Ex6Menu.dll
+D:\senai\codigos\C#\Ex6Menu\bin\Debug\netcoreapp2.1\Ex6Menu.pdb
+D:\senai\codigos\C#\Ex6Menu\obj\Debug\netcoreapp2.1\Ex6Menu.csprojAssemblyReference.cache
+D:\senai\codigos\C#\Ex6Menu\obj\Debug\netcoreapp2.1\Ex6Menu.csproj.CoreCompileInputs.cache
+D:\senai\codigos\C#\Ex6Menu\obj\Debug\netcoreapp2.1\Ex6Menu.AssemblyInfoInputs.cache
+D:\senai\codigos\C#\Ex6Menu\obj\Debug\netcoreapp2.1\Ex6Menu.AssemblyInfo.cs
+D:\senai\codigos\C#\Ex6Menu\obj\Debug\netcoreapp2.1\Ex6Menu.dll
+D:\senai\codigos\C#\Ex6Menu\obj\Debug\netcoreapp2.1\Ex6Menu.pdb
